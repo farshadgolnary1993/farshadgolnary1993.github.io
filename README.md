@@ -1,6 +1,6 @@
 # About me
 
-I am a dedicated control engineer
+I am a dedicated *control* engineer
 
 # Research interest
 
