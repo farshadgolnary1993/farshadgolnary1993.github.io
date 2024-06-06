@@ -1,6 +1,10 @@
 # About me
 
-I am a dedicated **control** engineer
+Farshad Golnary
+
+Visiting Scholar: University of Technology Sydney
+
+Email: Farshad.GolnaryArdekany@UTS.edu.au 
 
 # Research interest
 
